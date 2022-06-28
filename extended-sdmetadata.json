@@ -1,7 +1,7 @@
 {
     "info": {
-        "url_png_icon_64x64": "https://www.sociallydistant.site/wp-content/uploads/2021/10/server-icon.png",
-        "url_png_logo": "https://www.sociallydistant.site/wp-content/uploads/2021/10/server-icon.png",
+        "url_png_icon_64x64": "https://raw.githubusercontent.com/Barr3tt/StakePool/main/icon64x64.png",
+        "url_png_logo": "https://raw.githubusercontent.com/Barr3tt/StakePool/main/FullSize.png",
         "social": {
             "twitter_handle": "SDStakePool"
         },
