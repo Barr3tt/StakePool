@@ -3,5 +3,5 @@
     "description": "The Testnet Stake Pool for the Socially Distant Community",
     "ticker": "SDADA",
     "homepage": "https://sociallydistant.site/stake",
-    "extended": "https://sociallydistant.site/extended-sdmetadata.json"
+    "extended": "https://raw.githubusercontent.com/Barr3tt/StakePool/Testnet/extended-sdmetadata.json"
 }
