@@ -1,2 +1,2 @@
 # StakePool
-Source Code for the Socially Distant Stake Pool
+Socially Distant Stake Pool config files and images
